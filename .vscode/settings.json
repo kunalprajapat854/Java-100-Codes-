@@ -1,0 +1,11 @@
+{
+  "editor.quickSuggestions" : {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.parameterHints.enabled": false,
+  "editor.suggest.showSnippets": true,
+  "editor.suggestOnTriggerCharacters": true,
+  "java.completion.enabled": true
+}
