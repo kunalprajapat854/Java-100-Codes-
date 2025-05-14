@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class even_odd {
      public static void main(String[] args) {
+
+      // reading the values from the end user
        Scanner scanner = new Scanner(System.in);
         int num =  scanner.nextInt();
       
@@ -15,7 +17,8 @@ public class even_odd {
       // using ternary operator 
       // String even = (num %2==0) ? "Even" : "odd" ;
       // System.out.println(even);
-
+  
+      // using switch statements
       int n =    num % 2 ;
        switch (n) {
          case 0:
