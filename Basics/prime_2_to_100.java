@@ -1,3 +1,5 @@
+package Basics;
+
 public class prime_2_to_100 {
     public static void main(String[] args) {
         System.out.println("Print Prime numbers from 2 to 100");

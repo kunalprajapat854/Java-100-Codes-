@@ -1,3 +1,5 @@
+package Basics;
+
 public class armstrong_num {
     public static void main(String[] args) {
         int number = 3712, count = 0, sum = 0, temp;
