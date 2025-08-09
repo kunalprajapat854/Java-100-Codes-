@@ -1,0 +1,203 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "primeNumber",
+      "request": "launch",
+      "mainClass": "Basics.primeNumber",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "Basics.Example",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "max_num",
+      "request": "launch",
+      "mainClass": "Arrays.max_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "max_sum_array",
+      "request": "launch",
+      "mainClass": "Arrays.max_sum_array",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "print_sum_array",
+      "request": "launch",
+      "mainClass": "Arrays.print_sum_array",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "abundant",
+      "request": "launch",
+      "mainClass": "Basics.abundant",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "armstrong_num",
+      "request": "launch",
+      "mainClass": "Basics.armstrong_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "armstrong_range",
+      "request": "launch",
+      "mainClass": "Basics.armstrong_range",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "automorphic_num",
+      "request": "launch",
+      "mainClass": "Basics.automorphic_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "Basics.demo",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "even_odd",
+      "request": "launch",
+      "mainClass": "Basics.even_odd",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "factor_num",
+      "request": "launch",
+      "mainClass": "Basics.factor_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "Basics.factorial",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "fibonacci",
+      "request": "launch",
+      "mainClass": "Basics.fibonacci",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "friendly_pair",
+      "request": "launch",
+      "mainClass": "Basics.friendly_pair",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "harshad_num",
+      "request": "launch",
+      "mainClass": "Basics.harshad_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "leap_year",
+      "request": "launch",
+      "mainClass": "Basics.leap_year",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "palindrome_num",
+      "request": "launch",
+      "mainClass": "Basics.palindrome_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "perfect_square",
+      "request": "launch",
+      "mainClass": "Basics.perfect_square",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "positive_num",
+      "request": "launch",
+      "mainClass": "Basics.positive_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "power",
+      "request": "launch",
+      "mainClass": "Basics.power",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "prime_2_to_100",
+      "request": "launch",
+      "mainClass": "Basics.prime_2_to_100",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "prime_factor",
+      "request": "launch",
+      "mainClass": "Basics.prime_factor",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "prime_number",
+      "request": "launch",
+      "mainClass": "Basics.prime_number",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "reverse_num",
+      "request": "launch",
+      "mainClass": "Basics.reverse_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "strong_num",
+      "request": "launch",
+      "mainClass": "Basics.strong_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "sum_of_natural_num",
+      "request": "launch",
+      "mainClass": "Basics.sum_of_natural_num",
+      "projectName": "Java_100_Codes_2f92a7c"
+    }
+  ]
+}
