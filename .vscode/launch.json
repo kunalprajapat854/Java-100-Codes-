@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "reverseNumber",
+      "request": "launch",
+      "mainClass": "Basics.reverseNumber",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
       "name": "primeNumber",
       "request": "launch",
       "mainClass": "Basics.primeNumber",
