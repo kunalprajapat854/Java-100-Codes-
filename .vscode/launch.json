@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "largestNum",
+      "request": "launch",
+      "mainClass": "Arrays.largestNum",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
       "name": "reverseNumber",
       "request": "launch",
       "mainClass": "Basics.reverseNumber",
