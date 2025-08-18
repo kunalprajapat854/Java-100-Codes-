@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "hollowRectangle",
+      "request": "launch",
+      "mainClass": "Patterns.hollowRectangle",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "solidRectangle",
+      "request": "launch",
+      "mainClass": "Patterns.solidRectangle",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "Patterns.Example",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "sortArray",
+      "request": "launch",
+      "mainClass": "Arrays.sortArray",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "sortArrayAscDsc",
+      "request": "launch",
+      "mainClass": "Arrays.sortArrayAscDsc",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "sortArrayAscDsc",
+      "request": "launch",
+      "mainClass": "sortArrayAscDsc",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "reverseArray",
+      "request": "launch",
+      "mainClass": "Arrays.reverseArray",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "calculateSum",
+      "request": "launch",
+      "mainClass": "Arrays.calculateSum",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "largest_Smallest",
+      "request": "launch",
+      "mainClass": "Arrays.largest_Smallest",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "smallestNum",
+      "request": "launch",
+      "mainClass": "Arrays.smallestNum",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "Arrays.Example",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
       "name": "vowels",
       "request": "launch",
       "mainClass": "Strings.vowels",
