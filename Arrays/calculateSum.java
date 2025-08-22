@@ -1,7 +1,5 @@
 package Arrays;
 
-import java.util.Arrays;
-
 public class calculateSum {
     public static void main(String[] args) {
         int arr[] = { 45, 15, 5, 60, 20 };

@@ -11,7 +11,7 @@ public class vowels {
         }
     }
 
-    static boolean vowels(char c) {
+    public static boolean vowels(char c) {
 
         c = Character.toUpperCase(c);
         return (c == 'A' || c == 'I' || c == 'O' || c == 'E' || c == 'U');
