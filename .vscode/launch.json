@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SearchInArray",
+      "request": "launch",
+      "mainClass": "Arrays.SearchInArray",
+      "projectName": "Java_100_Codes_2f92a7c"
+    },
+    {
+      "type": "java",
       "name": "RemoveDuplicateSorted",
       "request": "launch",
       "mainClass": "Arrays.RemoveDuplicateSorted",
